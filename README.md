@@ -1,2 +1,2 @@
-# act.portfolio-gundmr.github.io
-active portfolio
+# HTML/CSS Portfolio
+Draft portfolio using HTML and CSS
